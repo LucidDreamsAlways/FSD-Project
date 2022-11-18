@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{3FE36691-A13C-47ED-B396-D46ED1768BDB}|Default">
+  <MonoDevelop.Ide.ItemProperties.OnlinePharmacy.Server FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.OnlinePharmacy.Client FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.OnlinePharmacy.Shared FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
