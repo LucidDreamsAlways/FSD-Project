@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Shared/OnlinePharmacy.Shared.csproj": {}
+    "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\App\\OnlinePharmacy\\OnlinePharmacy\\Shared\\OnlinePharmacy.Shared.csproj": {}
   },
   "projects": {
-    "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Shared/OnlinePharmacy.Shared.csproj": {
+    "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\App\\OnlinePharmacy\\OnlinePharmacy\\Shared\\OnlinePharmacy.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Shared/OnlinePharmacy.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\App\\OnlinePharmacy\\OnlinePharmacy\\Shared\\OnlinePharmacy.Shared.csproj",
         "projectName": "OnlinePharmacy.Shared",
-        "projectPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Shared/OnlinePharmacy.Shared.csproj",
-        "packagesPath": "/Users/nagul/.nuget/packages/",
-        "outputPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Shared/obj/",
+        "projectPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\App\\OnlinePharmacy\\OnlinePharmacy\\Shared\\OnlinePharmacy.Shared.csproj",
+        "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\App\\OnlinePharmacy\\OnlinePharmacy\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nagul/.config/NuGet/NuGet.Config"
+          "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.106/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     }

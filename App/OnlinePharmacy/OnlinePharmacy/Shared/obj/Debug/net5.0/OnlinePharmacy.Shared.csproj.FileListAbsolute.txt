@@ -10,3 +10,15 @@
 /Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Shared/obj/Debug/net5.0/OnlinePharmacy.Shared.dll
 /Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Shared/obj/Debug/net5.0/ref/OnlinePharmacy.Shared.dll
 /Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Shared/obj/Debug/net5.0/OnlinePharmacy.Shared.pdb
+C:\Users\nicho\Documents\GitHub\FSD-Project\App\OnlinePharmacy\OnlinePharmacy\Shared\bin\Debug\net5.0\OnlinePharmacy.Shared.deps.json
+C:\Users\nicho\Documents\GitHub\FSD-Project\App\OnlinePharmacy\OnlinePharmacy\Shared\bin\Debug\net5.0\OnlinePharmacy.Shared.dll
+C:\Users\nicho\Documents\GitHub\FSD-Project\App\OnlinePharmacy\OnlinePharmacy\Shared\bin\Debug\net5.0\ref\OnlinePharmacy.Shared.dll
+C:\Users\nicho\Documents\GitHub\FSD-Project\App\OnlinePharmacy\OnlinePharmacy\Shared\bin\Debug\net5.0\OnlinePharmacy.Shared.pdb
+C:\Users\nicho\Documents\GitHub\FSD-Project\App\OnlinePharmacy\OnlinePharmacy\Shared\obj\Debug\net5.0\OnlinePharmacy.Shared.csproj.AssemblyReference.cache
+C:\Users\nicho\Documents\GitHub\FSD-Project\App\OnlinePharmacy\OnlinePharmacy\Shared\obj\Debug\net5.0\OnlinePharmacy.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Documents\GitHub\FSD-Project\App\OnlinePharmacy\OnlinePharmacy\Shared\obj\Debug\net5.0\OnlinePharmacy.Shared.AssemblyInfoInputs.cache
+C:\Users\nicho\Documents\GitHub\FSD-Project\App\OnlinePharmacy\OnlinePharmacy\Shared\obj\Debug\net5.0\OnlinePharmacy.Shared.AssemblyInfo.cs
+C:\Users\nicho\Documents\GitHub\FSD-Project\App\OnlinePharmacy\OnlinePharmacy\Shared\obj\Debug\net5.0\OnlinePharmacy.Shared.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Documents\GitHub\FSD-Project\App\OnlinePharmacy\OnlinePharmacy\Shared\obj\Debug\net5.0\OnlinePharmacy.Shared.dll
+C:\Users\nicho\Documents\GitHub\FSD-Project\App\OnlinePharmacy\OnlinePharmacy\Shared\obj\Debug\net5.0\ref\OnlinePharmacy.Shared.dll
+C:\Users\nicho\Documents\GitHub\FSD-Project\App\OnlinePharmacy\OnlinePharmacy\Shared\obj\Debug\net5.0\OnlinePharmacy.Shared.pdb
