@@ -203,6 +203,7 @@
     },
     "lazyAssembly": null,
     "pdb": {
+      "OnlinePharmacy.Shared.pdb": "sha256-cIUIaV5DW2MZNpwWva3+4HgH5FvGHnI7NwwOfuvB7IE=",
       "OnlinePharmacy.Client.pdb": "sha256-71WtB\/VXRwr0MPDYhfGoJUxbCrI2pNhAFs7jD4g6W5U="
     },
     "runtime": {
