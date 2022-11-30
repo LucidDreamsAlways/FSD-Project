@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wbonwLQi/wmu1BXQNFXrPqTjruaCwGA+XuJ/8r7FCoDna2tIk7VB0mVfjwzYgwjEDE0IAGYI/3D91uLknmC8Iw==",
+  "dgSpecHash": "dK09KdCJpviy4ItcbU9u1FVE41H/cVkrPf3/8n32iP4Mau5eZAcVoLDBdaeM6J0hxH5osE8XbhQcybzfWarsSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicho\\source\\repos\\Test\\Test\\Client\\Test.Client.csproj",
+  "projectFilePath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Client\\Test.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicho\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.17\\microsoft.aspnetcore.authorization.5.0.17.nupkg.sha512",
     "C:\\Users\\nicho\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.17\\microsoft.aspnetcore.components.5.0.17.nupkg.sha512",

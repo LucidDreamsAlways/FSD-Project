@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicho\\source\\repos\\Test\\Test\\Client\\Test.Client.csproj": {}
+    "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Client\\Test.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicho\\source\\repos\\Test\\Test\\Client\\Test.Client.csproj": {
+    "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Client\\Test.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicho\\source\\repos\\Test\\Test\\Client\\Test.Client.csproj",
+        "projectUniqueName": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Client\\Test.Client.csproj",
         "projectName": "Test.Client",
-        "projectPath": "C:\\Users\\nicho\\source\\repos\\Test\\Test\\Client\\Test.Client.csproj",
+        "projectPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Client\\Test.Client.csproj",
         "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicho\\source\\repos\\Test\\Test\\Client\\obj\\",
+        "outputPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\nicho\\source\\repos\\Test\\Test\\Shared\\Test.Shared.csproj": {
-                "projectPath": "C:\\Users\\nicho\\source\\repos\\Test\\Test\\Shared\\Test.Shared.csproj"
+              "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj": {
+                "projectPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\nicho\\source\\repos\\Test\\Test\\Shared\\Test.Shared.csproj": {
+    "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicho\\source\\repos\\Test\\Test\\Shared\\Test.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj",
         "projectName": "Test.Shared",
-        "projectPath": "C:\\Users\\nicho\\source\\repos\\Test\\Test\\Shared\\Test.Shared.csproj",
+        "projectPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj",
         "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicho\\source\\repos\\Test\\Test\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config",

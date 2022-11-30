@@ -5,7 +5,7 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     },
     {
-      "hash": "sha256-XoFKPWwSZWA0qZnKi0aXvBB9kDS0n7vpEpWkD5AZxhI=",
+      "hash": "sha256-Nkzo\/OG0Qw5vqEOL55FWMnbaTS4BWrYNBtDbILQYnck=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -809,11 +809,11 @@
       "url": "_framework\/Test.Shared.pdb"
     },
     {
-      "hash": "sha256-B0Pba7anPPI9qCM0KUSFKSGUW6rehzNPG2HNQb9PQXg=",
+      "hash": "sha256-gj0x+uL7VzdaKA9KFSaNoBrZYVZlQ4\/rJLi24RQ2AdQ=",
       "url": "_framework\/Test.Client.dll"
     },
     {
-      "hash": "sha256-j5ouWwre2jWUqDgC2bewvxH6uHIOvJUA9w1HfB7Xsj4=",
+      "hash": "sha256-4P9R2ME\/WtSGE7Drt79nyYfzku8KIhZorJP\/6Taa9CM=",
       "url": "_framework\/Test.Client.pdb"
     },
     {
@@ -1681,13 +1681,13 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-l0uaBu5N6VT4gFrxoTJzkhmakTuIVu8EU4qtwnh\/tgs=",
+      "hash": "sha256-4k58mY64ZbVFkoJvT4H6xnq\/mkfUj9fAU8gFnfhC++U=",
       "url": "Test.Client.styles.css"
     },
     {
-      "hash": "sha256-crOLSxIJc078sFDxpcO4Ts9dRYBLWj9PfHvTq2lsV7E=",
+      "hash": "sha256-zN1L0OtzgRWz6CjnbDO\/SxKupnjbe3cn6+2232C+YL4=",
       "url": "Test.Client.bundle.scp.css"
     }
   ],
-  "version": "JH0aT\/6W"
+  "version": "PWY3iYT9"
 };

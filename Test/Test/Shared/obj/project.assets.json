@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicho\\source\\repos\\Test\\Test\\Shared\\Test.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj",
       "projectName": "Test.Shared",
-      "projectPath": "C:\\Users\\nicho\\source\\repos\\Test\\Test\\Shared\\Test.Shared.csproj",
+      "projectPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj",
       "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicho\\source\\repos\\Test\\Test\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config",
