@@ -198,13 +198,15 @@
       "mscorlib.dll": "sha256-zMI\/dXK7DoZZ9Qm9U9\/jRN4iQ9Ss3w8\/rwQQxC6SW9Y=",
       "netstandard.dll": "sha256-W3q3PN+lpRB+tRJEIhtMgYOGFv0pauEeeCS9iIRkKAM=",
       "System.Private.CoreLib.dll": "sha256-9rUJv1mXEQdGt\/kWiJ1ITPPzp3cAi3lSmqHVTisp7w0=",
-      "OnlinePharmacy.Shared.dll": "sha256-oSYYQyTLxfWy2WRiJHn76ff4YO\/wsbDbHp9FhlcgbXk=",
-      "OnlinePharmacy.Client.dll": "sha256-brhnOgNdbW2KKI7oh05f149o0FlLw1Gctq9Tq\/pjpwM="
+      "OnlinePharmacy.Shared.dll": "sha256-sGP4WQJMxUi9GAVP4Ygl5\/QMoYodcvx3393GorwIcgo=",
+      "OnlinePharmacy.Client.dll": "sha256-bfUmto16t\/k80HpdxfaEoBwLwT7oc57Lz\/V6382cYlg="
     },
+    "extensions": null,
     "lazyAssembly": null,
+    "libraryInitializers": null,
     "pdb": {
-      "OnlinePharmacy.Shared.pdb": "sha256-cIUIaV5DW2MZNpwWva3+4HgH5FvGHnI7NwwOfuvB7IE=",
-      "OnlinePharmacy.Client.pdb": "sha256-71WtB\/VXRwr0MPDYhfGoJUxbCrI2pNhAFs7jD4g6W5U="
+      "OnlinePharmacy.Shared.pdb": "sha256-PtVDI8CKCgx0CUYf574YHFfo2YbK33h4aLqd3CQ0eB4=",
+      "OnlinePharmacy.Client.pdb": "sha256-oldkYhYGbJoQ6wdu8Ynk\/DMSZb7Jqc8Lw9kyFSINtJ8="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-8oJip361m8OrfLRJOuIeswWKaoxtT27\/wINCxhn+s4c=",

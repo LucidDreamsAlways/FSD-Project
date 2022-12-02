@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{3FE36691-A13C-47ED-B396-D46ED1768BDB}|Default">
-  <MonoDevelop.Ide.ItemProperties.OnlinePharmacy.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="OnlinePharmacy/Client/Pages/Index.razor">
+  <MonoDevelop.Ide.ItemProperties.OnlinePharmacy.Server PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnlinePharmacy/Client/Shared/LoginDisplay.razor">
     <Files>
       <File FileName="OnlinePharmacy/Client/Pages/Index.razor" Line="8" Column="56" />
       <File FileName="OnlinePharmacy/Client/Shared/MainLayout.razor.css" Line="1" Column="1" />
-      <File FileName="OnlinePharmacy/Client/Shared/NavMenu.razor.css" Line="1" Column="1" />
-      <File FileName="OnlinePharmacy/Client/Shared/MainLayout.razor" Line="11" Column="83" />
+      <File FileName="OnlinePharmacy/Client/Shared/NavMenu.razor.css" Line="12" Column="2" />
+      <File FileName="OnlinePharmacy/Client/Shared/MainLayout.razor" Line="1" Column="1" />
+      <File FileName="OnlinePharmacy/Client/Shared/LoginDisplay.razor" Line="8" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,10 +14,9 @@
           <Node name="OnlinePharmacy" expanded="True">
             <Node name="OnlinePharmacy.Client" expanded="True">
               <Node name="images" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Index.razor" selected="True" />
-              </Node>
+              <Node name="Pages" expanded="True" />
               <Node name="Shared" expanded="True">
+                <Node name="LoginDisplay.razor" selected="True" />
                 <Node name="MainLayout.razor" expanded="True" />
                 <Node name="NavMenu.razor" expanded="True" />
               </Node>
