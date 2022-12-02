@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\App\\OnlinePharmacy\\OnlinePharmacy\\Client\\OnlinePharmacy.Client.csproj": {}
+    "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Client/OnlinePharmacy.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\App\\OnlinePharmacy\\OnlinePharmacy\\Client\\OnlinePharmacy.Client.csproj": {
+    "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Client/OnlinePharmacy.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\App\\OnlinePharmacy\\OnlinePharmacy\\Client\\OnlinePharmacy.Client.csproj",
+        "projectUniqueName": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Client/OnlinePharmacy.Client.csproj",
         "projectName": "OnlinePharmacy.Client",
-        "projectPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\App\\OnlinePharmacy\\OnlinePharmacy\\Client\\OnlinePharmacy.Client.csproj",
-        "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\App\\OnlinePharmacy\\OnlinePharmacy\\Client\\obj\\",
+        "projectPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Client/OnlinePharmacy.Client.csproj",
+        "packagesPath": "/Users/nagul/.nuget/packages/",
+        "outputPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/nagul/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\App\\OnlinePharmacy\\OnlinePharmacy\\Shared\\OnlinePharmacy.Shared.csproj": {
-                "projectPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\App\\OnlinePharmacy\\OnlinePharmacy\\Shared\\OnlinePharmacy.Shared.csproj"
+              "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Shared/OnlinePharmacy.Shared.csproj": {
+                "projectPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Shared/OnlinePharmacy.Shared.csproj"
               }
             }
           }
@@ -87,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.106/RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -96,24 +94,22 @@
         }
       }
     },
-    "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\App\\OnlinePharmacy\\OnlinePharmacy\\Shared\\OnlinePharmacy.Shared.csproj": {
+    "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Shared/OnlinePharmacy.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\App\\OnlinePharmacy\\OnlinePharmacy\\Shared\\OnlinePharmacy.Shared.csproj",
+        "projectUniqueName": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Shared/OnlinePharmacy.Shared.csproj",
         "projectName": "OnlinePharmacy.Shared",
-        "projectPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\App\\OnlinePharmacy\\OnlinePharmacy\\Shared\\OnlinePharmacy.Shared.csproj",
-        "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\App\\OnlinePharmacy\\OnlinePharmacy\\Shared\\obj\\",
+        "projectPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Shared/OnlinePharmacy.Shared.csproj",
+        "packagesPath": "/Users/nagul/.nuget/packages/",
+        "outputPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/App/OnlinePharmacy/OnlinePharmacy/Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/nagul/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -146,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.106/RuntimeIdentifierGraph.json"
         }
       }
     }
