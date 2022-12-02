@@ -10,7 +10,7 @@
 
 .sidebar {
     background: rgb(3,69,17);
-    background: linear-gradient(180deg, rgba(3,69,17,1) 26%, rgba(19,157,84,1) 60%, rgba(24,242,148,1) 100%);
+    background: linear-gradient(180deg, rgba(222,139,148,255) 30%, rgba(246,230,172,255) 100%);
 }
     
 .top-row {

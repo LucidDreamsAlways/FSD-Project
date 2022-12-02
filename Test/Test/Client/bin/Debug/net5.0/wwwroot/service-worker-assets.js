@@ -1681,13 +1681,13 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-4k58mY64ZbVFkoJvT4H6xnq\/mkfUj9fAU8gFnfhC++U=",
+      "hash": "sha256-tcyVvmaCrGdjIk5ZpF+9yZe6rfGI3lbgFrxNMi4sTuI=",
       "url": "Test.Client.styles.css"
     },
     {
-      "hash": "sha256-zN1L0OtzgRWz6CjnbDO\/SxKupnjbe3cn6+2232C+YL4=",
+      "hash": "sha256-Mik8oiLZqBvScpSxD8Hv2hl6Xat9B06efCLQTlEAR6Q=",
       "url": "Test.Client.bundle.scp.css"
     }
   ],
-  "version": "PWY3iYT9"
+  "version": "gyiuGzYt"
 };
