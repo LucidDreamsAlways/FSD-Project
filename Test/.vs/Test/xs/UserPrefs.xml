@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{71EB03B2-03C0-4920-8727-7C98096F644E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/Client/Shared/RedirectToLogin.razor">
+    <Files>
+      <File FileName="Test/Client/Shared/RedirectToLogin.razor" Line="9" Column="1" />
+      <File FileName="Test/Client/Shared/NavMenu.razor" Line="1" Column="46" />
+      <File FileName="Test/Client/Shared/MainLayout.razor" Line="1" Column="1" />
+      <File FileName="Test/Client/Shared/LoginDisplay.razor" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test" expanded="True">
+            <Node name="Test.Client" expanded="True">
+              <Node name="Shared" expanded="True">
+                <Node name="RedirectToLogin.razor" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Test.Server PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
