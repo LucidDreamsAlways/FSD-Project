@@ -1,0 +1,12 @@
+C:\Users\nicho\source\repos\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.deps.json
+C:\Users\nicho\source\repos\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.dll
+C:\Users\nicho\source\repos\Test\Test\Shared\bin\Debug\net5.0\ref\Test.Shared.dll
+C:\Users\nicho\source\repos\Test\Test\Shared\bin\Debug\net5.0\Test.Shared.pdb
+C:\Users\nicho\source\repos\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.csproj.AssemblyReference.cache
+C:\Users\nicho\source\repos\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\source\repos\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.AssemblyInfoInputs.cache
+C:\Users\nicho\source\repos\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.AssemblyInfo.cs
+C:\Users\nicho\source\repos\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.csproj.CoreCompileInputs.cache
+C:\Users\nicho\source\repos\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.dll
+C:\Users\nicho\source\repos\Test\Test\Shared\obj\Debug\net5.0\ref\Test.Shared.dll
+C:\Users\nicho\source\repos\Test\Test\Shared\obj\Debug\net5.0\Test.Shared.pdb
