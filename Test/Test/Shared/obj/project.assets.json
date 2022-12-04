@@ -8,26 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nicho\\.nuget\\packages\\": {}
+    "/Users/nagul/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj",
+      "projectUniqueName": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/Test.Shared.csproj",
       "projectName": "Test.Shared",
-      "projectPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj",
-      "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\obj\\",
+      "projectPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/Test.Shared.csproj",
+      "packagesPath": "/Users/nagul/.nuget/packages/",
+      "outputPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/nagul/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.106/RuntimeIdentifierGraph.json"
       }
     }
   }

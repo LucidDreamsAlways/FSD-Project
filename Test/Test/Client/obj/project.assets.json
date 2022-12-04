@@ -1322,34 +1322,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nicho\\.nuget\\packages\\": {}
+    "/Users/nagul/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Client\\Test.Client.csproj",
+      "projectUniqueName": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/Test.Client.csproj",
       "projectName": "Test.Client",
-      "projectPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Client\\Test.Client.csproj",
-      "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Client\\obj\\",
+      "projectPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/Test.Client.csproj",
+      "packagesPath": "/Users/nagul/.nuget/packages/",
+      "outputPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/nagul/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj": {
-              "projectPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj"
+            "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/Test.Shared.csproj": {
+              "projectPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/Test.Shared.csproj"
             }
           }
         }
@@ -1407,7 +1405,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.106/RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
