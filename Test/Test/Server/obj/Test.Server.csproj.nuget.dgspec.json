@@ -1,33 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Server/Test.Server.csproj": {}
+    "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Server\\Test.Server.csproj": {}
   },
   "projects": {
-    "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/Test.Client.csproj": {
+    "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Client\\Test.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/Test.Client.csproj",
+        "projectUniqueName": "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Client\\Test.Client.csproj",
         "projectName": "Test.Client",
-        "projectPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/Test.Client.csproj",
-        "packagesPath": "/Users/nagul/.nuget/packages/",
-        "outputPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/obj/",
+        "projectPath": "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Client\\Test.Client.csproj",
+        "packagesPath": "C:\\Users\\Nagul Singh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Client\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/nagul/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Nagul Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/Test.Shared.csproj": {
-                "projectPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/Test.Shared.csproj"
+              "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj": {
+                "projectPath": "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj"
               }
             }
           }
@@ -85,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.106/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -94,33 +100,39 @@
         }
       }
     },
-    "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Server/Test.Server.csproj": {
+    "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Server\\Test.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Server/Test.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Server\\Test.Server.csproj",
         "projectName": "Test.Server",
-        "projectPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Server/Test.Server.csproj",
-        "packagesPath": "/Users/nagul/.nuget/packages/",
-        "outputPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Server/obj/",
+        "projectPath": "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Server\\Test.Server.csproj",
+        "packagesPath": "C:\\Users\\Nagul Singh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Server\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/nagul/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Nagul Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/Test.Client.csproj": {
-                "projectPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/Test.Client.csproj"
+              "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Client\\Test.Client.csproj": {
+                "projectPath": "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Client\\Test.Client.csproj"
               },
-              "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/Test.Shared.csproj": {
-                "projectPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/Test.Shared.csproj"
+              "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj": {
+                "projectPath": "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj"
               }
             }
           }
@@ -182,26 +194,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.106/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/Test.Shared.csproj": {
+    "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/Test.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj",
         "projectName": "Test.Shared",
-        "projectPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/Test.Shared.csproj",
-        "packagesPath": "/Users/nagul/.nuget/packages/",
-        "outputPath": "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Shared/obj/",
+        "projectPath": "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj",
+        "packagesPath": "C:\\Users\\Nagul Singh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/nagul/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Nagul Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -234,7 +252,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.106/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     }

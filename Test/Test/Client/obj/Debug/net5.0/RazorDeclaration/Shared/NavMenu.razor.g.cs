@@ -13,77 +13,77 @@ namespace Test.Client.Shared
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/_Imports.razor"
+#line 1 "C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Client\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/_Imports.razor"
+#line 2 "C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Client\_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/_Imports.razor"
+#line 3 "C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/_Imports.razor"
+#line 4 "C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/_Imports.razor"
+#line 5 "C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/_Imports.razor"
+#line 6 "C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/_Imports.razor"
+#line 7 "C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/_Imports.razor"
+#line 8 "C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/_Imports.razor"
+#line 9 "C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Client\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/_Imports.razor"
+#line 10 "C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Client\_Imports.razor"
 using Test.Client;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 11 "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/_Imports.razor"
+#line 11 "C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Client\_Imports.razor"
 using Test.Client.Shared;
 
 #line default
@@ -97,7 +97,7 @@ using Test.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "/Users/nagul/Library/CloudStorage/OneDrive-TemasekPolytechnic/School/Y2S4/FSD-Project/Test/Test/Client/Shared/NavMenu.razor"
+#line 28 "C:\Users\Nagul Singh\OneDrive - Temasek Polytechnic\School\Y2S4\FSD-Project\Test\Test\Client\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
