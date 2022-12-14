@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj": {}
+    "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj": {
+    "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj",
         "projectName": "Test.Shared",
-        "projectPath": "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj",
-        "packagesPath": "C:\\Users\\Nagul Singh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nagul Singh\\OneDrive - Temasek Polytechnic\\School\\Y2S4\\FSD-Project\\Test\\Test\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\Test.Shared.csproj",
+        "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicho\\Documents\\GitHub\\FSD-Project\\Test\\Test\\Shared\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Nagul Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
