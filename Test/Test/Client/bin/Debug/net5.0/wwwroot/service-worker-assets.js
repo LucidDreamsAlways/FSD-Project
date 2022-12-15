@@ -5,7 +5,7 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     },
     {
-      "hash": "sha256-SSBh0SZsa8X8yl+ujRzYay1FG\/pzsXHto2Rp7NIUfhg=",
+      "hash": "sha256-6RrexKReISCCxjHP2iHDawAXz0roZdchtrA\/jZtfusk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -809,11 +809,11 @@
       "url": "_framework\/Test.Shared.pdb"
     },
     {
-      "hash": "sha256-MpXqt0O+AknudIme\/1rm\/poTc9haoHczkRJlSZ5GaXM=",
+      "hash": "sha256-Hda3gxjq1Ir0f+KZe9xSER9MhrDGDLCaPkN2T+yGHfw=",
       "url": "_framework\/Test.Client.dll"
     },
     {
-      "hash": "sha256-RC8qZ3P9LerxjJNUwC+rBWwerz54bcF72ci88a0Z6ao=",
+      "hash": "sha256-A+\/rambDID6mMCEKlTC7uymAVCglYQrbkCzClSIIj9A=",
       "url": "_framework\/Test.Client.pdb"
     },
     {
@@ -1705,6 +1705,14 @@
       "url": "images\/logo.png"
     },
     {
+      "hash": "sha256-s\/Umzqeo5KT1Va\/FugoUo3EXbBbBGtA6AzlM9Qd3+\/4=",
+      "url": "images\/products\/banner.png"
+    },
+    {
+      "hash": "sha256-\/p7trpPTFtHrpW9ORatmBA4suRMUquLJYaHYLcl\/fgc=",
+      "url": "images\/products\/panadol.png"
+    },
+    {
       "hash": "sha256-h\/CR0qXuKiEkjDehLX1QbSbaIWVsGJG8WeBnczux0kQ=",
       "url": "index.html"
     },
@@ -1721,5 +1729,5 @@
       "url": "Test.Client.bundle.scp.css"
     }
   ],
-  "version": "mE432C54"
+  "version": "GoNAiHPl"
 };

@@ -2620,3 +2620,5 @@ C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Client\obj\Debug\net5.0\se
 C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Client\obj\Debug\net5.0\service-worker-assets.js
 C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Health.razor.g.cs
 C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Client\obj\Debug\net5.0\Razor\Pages\Health.razor.g.cs
+C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Cart.razor.g.cs
+C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Client\obj\Debug\net5.0\Razor\Pages\Cart.razor.g.cs

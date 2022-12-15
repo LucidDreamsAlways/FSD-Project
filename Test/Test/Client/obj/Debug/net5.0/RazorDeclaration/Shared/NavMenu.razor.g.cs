@@ -97,7 +97,7 @@ using Test.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 37 "C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Client\Shared\NavMenu.razor"
+#line 44 "C:\Users\nicho\Documents\GitHub\FSD-Project\Test\Test\Client\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
